@@ -6,3 +6,12 @@ These are the courses I took:
 graph LR
 A(Intro to Programming) --> B(AP Computer Science A) --> C(AP Computer Science Principles) --> D(Advanced Topics in Programming)
 ```
+---
+## What I Learned
+I learned about the most popular sorting algorithms
+* Bubble Sort
+* Selection Sort
+* Insertion Sort
+* ...
+
+
