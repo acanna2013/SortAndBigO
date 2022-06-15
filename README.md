@@ -6,6 +6,7 @@ graph LR
 A(Intro to Programming) --> B(AP Computer Science A) --> C(AP Computer Science Principles) --> D(Advanced Topics in Programming)
 ```
 <p> This repo includes severals projects I worked on using what I learned. </p>
+<br>
 ---
 ## What I Learned
 I learned about the most popular sorting algorithms
