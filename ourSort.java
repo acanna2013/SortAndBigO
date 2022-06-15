@@ -1,7 +1,7 @@
 
 public class ourSort {
 	
-	public static void sortVoneshaAnna(int[] nos) {
+	public static void sortAnna(int[] nos) {
 		int maxIndex = 0;
 		int temp;
 		for (int i =0; i<nos.length; i++)
@@ -25,6 +25,6 @@ public class ourSort {
 	public static void main(String []args) {
 		Sorts one = new Sorts(20,10);
 		one.display();
-		sortVoneshaAnna(one.getNos());
+		sortAnna(one.getNos());
 	}
 }
